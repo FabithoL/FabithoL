@@ -28,7 +28,7 @@ Desarrollo de software · Sistemas empresariales · Soluciones web
 
 ---
 
-## 👨‍💻 Perfil profesional
+## 👨‍💻 Sobre Mi
 
 Soy **Fabian Lopez**, Software Developer enfocado en el desarrollo de soluciones web y sistemas empresariales.
 
