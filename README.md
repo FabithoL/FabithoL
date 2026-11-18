@@ -1,80 +1,69 @@
 
-<!--
-  GitHub Profile README
-  Author: FabithoL
--->
+<!-- ========================= -->
+<!--       HEADER              -->
+<!-- ========================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+FabithoL+%F0%9F%91%8B;Software+Developer;Building+Business+Solutions;Backend+%26+Web+Development" alt="Typing SVG" />
-
-### Software Developer | Backend & Web Development
-
-Building practical solutions through code.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Fabian%20Lopez&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Developer%20%7C%20Backend%20%26%20Full%20Stack&descSize=17&descAlignY=70&animation=fadeIn&color=0:0F172A,100:1D4ED8" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-FabithoL-181717?style=for-the-badge&logo=github)](https://github.com/FabithoL)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Desarrollando+soluciones+web;Construyendo+sistemas+empresariales;Aprendiendo+y+evolucionando+cada+d%C3%ADa" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-Hi! I'm **FabithoL**, a software developer passionate about technology and building solutions that make everyday work easier.
+Soy **Fabian Lopez**, desarrollador de software apasionado por la tecnología y la creación de soluciones digitales.
 
-- 💻 Focused on web development and business management systems.
-- ⚙️ Experienced in backend development and database management.
-- 🚀 Interested in automation, integrations and process optimization.
-- 📊 Building tools to improve business operations and productivity.
-- 🌎 Based in Chile.
+Me especializo en el desarrollo de aplicaciones web, sistemas empresariales y herramientas orientadas a optimizar procesos y mejorar la gestión de información.
 
----
+Me interesa seguir evolucionando profesionalmente, incorporando nuevas tecnologías y buenas prácticas de desarrollo.
 
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,js,html,css" />
-</p>
-
-### Database & Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
-</p>
-
-### Tools & Environment
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,linux" />
-</p>
+- 💻 Desarrollo backend y frontend.
+- 🗄️ Diseño, gestión y optimización de bases de datos.
+- ⚙️ Desarrollo de sistemas y soluciones empresariales.
+- 🚀 Actualmente aprendiendo **Laravel**.
+- 🌎 Chile.
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tecnologías
+
+**Lenguajes y desarrollo web**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css&theme=dark" />
+</div>
+
+**Actualmente aprendiendo**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
+</div>
+
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FabithoL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=FabithoL&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabithoL&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=FabithoL&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabithoL&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🚀 Proyectos destacados
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FabithoL/FabithoL/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+*Próximamente: proyectos personales y desarrollos destacados.*
 
 </div>
 
@@ -82,12 +71,14 @@ Hi! I'm **FabithoL**, a software developer passionate about technology and build
 
 <div align="center">
 
-### 💡 Always learning. Always building.
+### Gracias por visitar mi perfil
 
-*Turning ideas into solutions, one commit at a time.*
+**Construyendo soluciones, aprendiendo constantemente y mejorando cada día.**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FabithoL&color=36BCF7&style=flat-square&label=PROFILE+VIEWS)
+<a href="https://github.com/FabithoL">
+<img src="https://img.shields.io/badge/GitHub-FabithoL-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
