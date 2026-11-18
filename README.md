@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h1>Fabian Lopez</h1>
+<h1>Fabian Lopez Dev</h1>
 
 <h3>Software Developer | Backend & Full Stack</h3>
 
@@ -42,7 +42,7 @@ Trabajo en la construcción de aplicaciones orientadas a la gestión de informac
 - Integración de funcionalidades mediante JavaScript y AJAX.
 - Desarrollo backend con PHP.
 
-Actualmente estoy ampliando mis conocimientos en **Laravel**, fortaleciendo mis habilidades en arquitectura y desarrollo de aplicaciones modernas.
+Actualmente estoy ampliando mis conocimientos en **Laravel y Python**, fortaleciendo mis habilidades en arquitectura y desarrollo de aplicaciones modernas.
 
 ---
 
@@ -57,7 +57,7 @@ Actualmente estoy ampliando mis conocimientos en **Laravel**, fortaleciendo mis 
 **Actualmente aprendiendo**
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel" />
+<img src="https://skillicons.dev/icons?i=laravel,python&theme=light" alt="Laravel y Python" />
 </div>
 
 ---
